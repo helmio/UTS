@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helmy App</string>
+
+    <string name="tab1">PROFIL</string>
+    <string name="tab2">KONTAK</string>
+    <string name="tab3">DAFTAR TEMAN</string>
+
+</resources>
